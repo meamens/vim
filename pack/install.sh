@@ -55,12 +55,17 @@ package https://github.com/hashivim/vim-terraform.git &
 package https://github.com/hashivim/vim-vagrant.git &
 package https://github.com/hashivim/vim-packer.git &
 package https://github.com/hashivim/vim-vaultproject.git &
+package https://github.com/martinda/Jenkinsfile-vim-syntax.git &
+package https://github.com/kezhenxu94/vim-mysql-plugin.git &
+package https://github.com/lifepillar/pgsql.vim.git &
+package https://github.com/numirias/semshi.git *
 wait
 ) &
 (
 set_group colorschemes
 package https://github.com/altercation/vim-colors-solarized.git &
 package https://github.com/sjl/badwolf.git &
+package https://github.com/joshdick/onedark.vim.git &
 wait
 ) &
 wait

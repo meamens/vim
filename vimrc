@@ -17,16 +17,16 @@ set bs=2                    " same as ":set backspace=indent,eol,start"
 " }}}
 
 " Colours {{{
-colorscheme badwolf
+colorscheme onedark
 syntax enable			    " enable syntax processing
 " Show trailing whitepace and spaces before a tab:
 :autocmd Syntax * syn match ExtraWhitespace /\s\+$\| \+\ze\t/ containedin=ALL
 " }}}
 
 " Spaces & Tabs {{{
-set tabstop=4    		    " number of visual spaces per TAB
-set shiftwidth=4            " how many columns text is indented with the reindent operations (<< and >>)
-set softtabstop=4           " number of spaces in tab when editing
+set tabstop=2    		    " number of visual spaces per TAB
+set shiftwidth=2            " how many columns text is indented with the reindent operations (<< and >>)
+set softtabstop=2           " number of spaces in tab when editing
 set expandtab               " tabs are spaces
 " }}}
 
