@@ -62,6 +62,7 @@ package https://github.com/numirias/semshi.git &
 package https://github.com/hashivim/vim-terraform.git &
 package https://github.com/sheerun/vim-polyglot.git &
 package https://github.com/dense-analysis/ale.git &
+package https://github.com/chrisbra/csv.vim.git &
 wait
 ) &
 (
